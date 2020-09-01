@@ -11,6 +11,8 @@ First Basic step we have to do is that we have to make a IBM Account on [Link](h
 
 Then go to IBM dashboard but let me know that you are only have permission of making one Watson Assistant not two or three. 
 
-Go to IBM Dashboard, then resources list and click on **Create Resources**.
+When you click on IBM Cloud you can see the dashboard there. And just as 
+
+![](images/Dashboard.PNG)
 
 
