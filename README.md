@@ -11,7 +11,6 @@ First Basic step we have to do is that we have to make a IBM Account on [Link](h
 
 Then go to IBM dashboard but let me know that you are only have permission of making one Watson Assistant not two or three. 
 
-Go to IBM Dashboard, then resources list and click on **Create Resources**
-Choose Plan I suggest to choose LITE plan.
+Go to IBM Dashboard, then resources list and click on **Create Resources**.
 
-Soon I will share you the screen shots of IBM Watson.
+
