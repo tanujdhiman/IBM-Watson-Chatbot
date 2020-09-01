@@ -15,4 +15,9 @@ When you click on IBM Cloud you can see the dashboard there. And just as
 
 ![](images/Dashboard.PNG)
 
+As we all know about the IBM, it is a huge platform of making not only chatbots but translators, discoveries, text to speech and vice versa etc.
+In this we are gonna to make a simple chatbot by this you can have a idea of what and how watson work in actual or real-life.
+
+In the navigation bar i.e three lines in the left of the dashboard page, click on that and then click on RESOURCES LIST. Here you can see the list of resoureces you have used and those you haven't use yet. We are gonna make a service name **Watson Assistant**. SO how will you approach that.
+After clicking on Create Resourecs you will see a page like 
 
