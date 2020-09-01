@@ -20,4 +20,14 @@ In this we are gonna to make a simple chatbot by this you can have a idea of wha
 
 In the navigation bar i.e three lines in the left of the dashboard page, click on that and then click on RESOURCES LIST. Here you can see the list of resoureces you have used and those you haven't use yet. We are gonna make a service name **Watson Assistant**. SO how will you approach that.
 After clicking on Create Resourecs you will see a page like 
+![](images/Catalog.PNG)
 
+Just Click on Watson Assistant and you will see a create page. In this there are a lot of text inputs like region, plan, watson etc.
+I prefer to choose 
+* Region - London if you are from the country in the given list then choose that.
+* Plan - LITE if you haven't a subscription of IBM.
+* Service Name - You have write watson-assistant-__ then you can write either of a number or alphabet like c9, 5n etc.
+
+And in this page you just choose the plan and leave all in their default positions.Click on **Create**. Okay we are going to launch Watson Assistant and make sure you are with me on this page :
+
+![](images/Assistant-Launch.PNG)
