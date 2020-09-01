@@ -31,3 +31,11 @@ I prefer to choose
 And in this page you just choose the plan and leave all in their default positions.Click on **Create**. Okay we are going to launch Watson Assistant and make sure you are with me on this page :
 
 ![](images/Assistant-Launch.PNG)
+
+Here you can see two buttons :
+* Launch Watson Assistant
+* Getting Started Tutorial
+If you are not comfortable with my instructions you will follow up the tutorial too. Here is the link of that : https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started-tutorial
+
+SO, CLick on Launch Watson Assistant. A another window will appear like that :
+![](images/Default-Assistant.PNG)
