@@ -39,3 +39,5 @@ If you are not comfortable with my instructions you will follow up the tutorial 
 
 SO, CLick on Launch Watson Assistant. A another window will appear like that :
 ![](images/Default-Assistant.PNG)
+
+CONTINUE................................
