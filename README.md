@@ -32,6 +32,7 @@ And in this page you just choose the plan and leave all in their default positio
 
 ![](images/Assistant-Launch.PNG)
 
+And one more thing here is, if you want to use this watson assistant in outside code so there you can see the API key and URL of this just copy and paste wherever you want to use this assistant. This is a great opporunity which watson offer.
 Here you can see two buttons :
 * Launch Watson Assistant
 * Getting Started Tutorial
