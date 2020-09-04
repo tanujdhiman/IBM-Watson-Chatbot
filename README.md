@@ -42,3 +42,6 @@ SO, CLick on Launch Watson Assistant. A another window will appear like that :
 ![](images/Default-Assistant.PNG)
 
 You can see there is a default assistant here Yep it has a default assistant. Just go into it there you can see a skills just click on that.
+Then you can many buttons on the nav bar.
+
+CONTINUE......................
