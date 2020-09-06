@@ -51,4 +51,7 @@ There is :
 * Options
 * Content Catalog
 
+**Intents :** It means like a user say hello but we know we can start with Hi, Hey, What's app, How arer you etc. these are some user examples which we can communicate with the bot we going to make. So put these in a single intent named as Hello-messages then add all the hello messages in it so that watson assistant can easily understand what the user is saying. 
+
+**Note :** We have to add at least 5 user examples to an intent for the understanding of watson assistant.
 CONTINUE......................
