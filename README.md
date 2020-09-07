@@ -54,6 +54,6 @@ There is :
 **Intents :** It means like a user say hello but we know we can start with Hi, Hey, What's app, How arer you etc. these are some user examples which we can communicate with the bot we going to make. So put these in a single intent named as Hello-messages then add all the hello messages in it so that watson assistant can easily understand what the user is saying. 
 
 **Note :** We have to add at least 5 user examples to an intent for the understanding of watson assistant.
-?
+
 **Entities :** It means a particular word like for example What is the weather today ? So here is Today is a entity that contain the today's tomorrow and something else. So extract the particular word from the user sentense that is entity I called. 
 CONTINUE......................
