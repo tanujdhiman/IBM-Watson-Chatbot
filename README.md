@@ -56,4 +56,8 @@ There is :
 **Note :** We have to add at least 5 user examples to an intent for the understanding of watson assistant.
 
 **Entities :** It means a particular word like for example What is the weather today ? So here is Today is a entity that contain the today's tomorrow and something else. So extract the particular word from the user sentense that is entity I called. 
+
+**Dialog :** When you message to bot like "Hello, What are you doing ?" So bot have to answer it like "Yep, I am waiting for you." That much so these are called dialog skills. In these we put a respone to user message here.
+
+**Note :** You can add muliple responses in Watson Assistant. 
 CONTINUE......................
