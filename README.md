@@ -60,4 +60,7 @@ There is :
 **Dialog :** When you message to bot like "Hello, What are you doing ?" So bot have to answer it like "Yep, I am waiting for you." That much so these are called dialog skills. In these we put a respone to user message here.
 
 **Note :** You can add muliple responses in Watson Assistant. 
+
+**Options :** It contains all options like importing webhooks and reponse options etc. we can edit it from here. It is just a editing part of our Assistant.
+
 CONTINUE......................
