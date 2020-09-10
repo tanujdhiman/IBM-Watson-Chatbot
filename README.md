@@ -63,4 +63,6 @@ There is :
 
 **Options :** It contains all options like importing webhooks and reponse options etc. we can edit it from here. It is just a editing part of our Assistant.
 
+**Content Catalog :** This contains pre-made intents like greeting, ending, or bank etc. 
+Just Click on this buttton and add to skills these intents. This made so easy for user.
 CONTINUE......................
