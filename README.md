@@ -65,4 +65,7 @@ There is :
 
 **Content Catalog :** This contains pre-made intents like greeting, ending, or bank etc. 
 Just Click on this buttton and add to skills these intents. This made so easy for user.
+
+Hope you are getting a idea of how it is working. We can integrate it on Facebook, Slack etc.
+BY this tutorial, I will explain how to do this.
 CONTINUE......................
