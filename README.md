@@ -68,4 +68,11 @@ Just Click on this buttton and add to skills these intents. This made so easy fo
 
 Hope you are getting a idea of how it is working. We can integrate it on Facebook, Slack etc.
 BY this tutorial, I will explain how to do this.
+
+Okay let's start something practical. 
+Look at this page, make sure you are on this. if not then check you have launched your assistant or not.
+![](images/skills-page.PNG)
+
+Guys her you are seeing that there is two buttons one is create intent and another is upload csv file of intent to this assistant.
+If you have pre-intent files then upload it by clicking on **Import Intents**.
 CONTINUE......................
