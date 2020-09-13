@@ -73,6 +73,6 @@ Okay let's start something practical.
 Look at this page, make sure you are on this. if not then check you have launched your assistant or not.
 ![](images/skills-page.PNG)
 
-Guys her you are seeing that there is two buttons one is create intent and another is upload csv file of intent to this assistant.
+Guys here you are seeing that there is two buttons one is create intent and another is upload csv file of intent to this assistant.
 If you have pre-intent files then upload it by clicking on **Import Intents**.
 CONTINUE......................
