@@ -75,4 +75,13 @@ Look at this page, make sure you are on this. if not then check you have launche
 
 Guys here you are seeing that there is two buttons one is create intent and another is upload csv file of intent to this assistant.
 If you have pre-intent files then upload it by clicking on **Import Intents**.
+
+Okay if you have not any intent just follow these steps:
+* Create Intent Button Click on that.
+* Give the name to intent (make sure it doesn't contain underscores, and other symboles i.e My-intent-name)
+* Give the decription of intent but it is optional.
+* Add the user examples like you have made a intent named Hello-messages then user examples should be like hi, hey, hello, what'sap, How are you and many more.
+* Add on these user examples as you want.
+
+
 CONTINUE......................
