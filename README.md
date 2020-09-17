@@ -83,5 +83,9 @@ Okay if you have not any intent just follow these steps:
 * Add the user examples like you have made a intent named Hello-messages then user examples should be like hi, hey, hello, what'sap, How are you and many more.
 * Add on these user examples as you want.
 
+Okay, Now you have added all the user examples. It's time to Bot answers to user. Create on dialog skill button then you have seeing two nodes there Welcome and Anything Else.
+Welcome is that when you open chatbox then it will display a msg to user like "Welcome to my Serivice". And Anything else is that when you write anything that is not matched by the data you have added then it will show up a anything else message like "I didn't get your point" etc. 
+If you wanna add your answer then click on the right side of Wecome node. You can see Three dots click on that and then click on Add Node Below then you fill your intent name staring with "#". Then write up your answer in the response text.
+Click on X button it will save and train watson.
 
-CONTINUE......................
+CO NTINUE......................
