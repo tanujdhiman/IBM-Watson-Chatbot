@@ -97,5 +97,6 @@ Send a messaage and you can see the answer and the intent name in which the mess
 
 See ::::
 
+![](images/Try-It-Out.PNG)
 
 CO NTINUE......................
