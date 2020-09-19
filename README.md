@@ -90,6 +90,8 @@ Welcome is that when you open chatbox then it will display a msg to user like "W
 If you wanna add your answer then click on the right side of Wecome node. You can see Three dots click on that and then click on Add Node Below then you fill your intent name staring with "#". Then write up your answer in the response text.
 Click on X button it will save and train watson.
 
+![](images/Dialog-skill.PNG)
+
 GO to **Try it Out** Button click on that and here you can see the welcome message you have put in the welcome node there.
 Send a messaage and you can see the answer and the intent name in which the message belong to.
 
