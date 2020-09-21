@@ -102,4 +102,10 @@ See ::::
 
 ![](images/Try-It-Out.PNG)
 
+Let's deploy it as a preview link first and then on slack and facebook etc.
+
+Steps for deploying it into preview link is :
+* Go to the Assistant Page.
+* You can see the three dots there click on that and then Add Integration.
+
 CO NTINUE......................
