@@ -113,6 +113,6 @@ Steps for deploying it into preview link is :
 When you click on Integration you can see the page of integration that contains many integration methods like preview link, facebook, slack etc.
 We are going to complete it by preview link.
 
-![](images/integration-page.PNG)
+![](images/integrations-page.PNG)
 
 CONTINUE......................
