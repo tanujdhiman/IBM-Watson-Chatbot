@@ -115,4 +115,6 @@ We are going to complete it by preview link.
 
 ![](images/integrations-page.PNG)
 
+Here is the preview link of our Assistant :::
+
 CONTINUE......................
