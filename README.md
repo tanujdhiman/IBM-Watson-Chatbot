@@ -115,6 +115,8 @@ We are going to complete it by preview link.
 
 ![](images/integrations-page.PNG)
 
-Here is the preview link of our Assistant :::
+Here is the preview link of our Assistant ::: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=c689b9f4-5c13-4430-a028-28a264e0b459&serviceInstanceID=4372e7a7-e6cf-4cb2-8f6a-9e1c9a10e882
+
+![](images/preview-link.PNG)
 
 CONTINUE......................
