@@ -123,4 +123,8 @@ Here is the preview link of our Assistant ::: https://web-chat.global.assistant.
 I think it is as simple as that till preview link and yeah some stuff we have to do for integrating it on Facebook and slack.
 
 For integrating it on Facebook Messenger follow this.
+
+Move On this page:::
+
+![](images/AddIntegration.PNG)
 CONTINUE......................
