@@ -127,4 +127,6 @@ For integrating it on Facebook Messenger follow this.
 Move On this page:::
 
 ![](images/AddIntegration.PNG)
+
+Go to that page and follow these steps of integrating it on FaceBook.
 CONTINUE......................
