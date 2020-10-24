@@ -129,4 +129,5 @@ Move On this page:::
 ![](images/AddIntegration.PNG)
 
 Go to that page and follow these steps of integrating it on FaceBook.
-CONTINUE......................
+
+If you like this tutorial of making Chatbot on IBM then don't forget to star this repo.
